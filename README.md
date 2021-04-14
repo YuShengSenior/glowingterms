@@ -17,5 +17,5 @@
 npm install && node .\index.js
 ```
 
-`public`下的`city.json`文件为聚合数据的城市代码参照文件,可以用城市code码查询所对应城市的天气发送给心爱的人
+`public`下的`city.json`文件为聚合数据的城市代码参照文件,可以用城市code码查询所对应城市的天气预报发送给心爱的人
 
